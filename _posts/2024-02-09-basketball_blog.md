@@ -20,7 +20,7 @@ Wards can be combined to field a team if necessary.  Divisions...
 ## Sabre Spring Sign-up
 The adults and youth will likely field teams.  
 
-[Edit/Sign up](https://docs.google.com/spreadsheets/d/1rEgCatf3dJ2w8HscsrbAtA5eVxiV11wjpv7Bn0Z8RPk/edit?usp=sharing)
+[Click to Edit/Sign up](https://docs.google.com/spreadsheets/d/1rEgCatf3dJ2w8HscsrbAtA5eVxiV11wjpv7Bn0Z8RPk/edit?usp=sharing)
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQtK2ePVEDmHB8q7io-DzkFWl1G__W3yYOfuiYYa3Rvsjrf46US1LbbZDLbdscBlDsu2f-MpeJX2uM/pubhtml?widget=true&amp;headers=false" style="width:100%; height:800px;"></iframe>
 

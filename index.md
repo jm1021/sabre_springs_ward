@@ -12,9 +12,9 @@ hide: true
 
 ## Feb 2024
 
-- Chapel cleaning, each Saturday.  Be sure to check your signup in [blog](cleaning_schedule). 
-- Basketball tournament information/signup [blog](2024_baketball)
-
+- Chapel cleaning, each Saturday.  Be sure to check your signup in [cleaning blog](cleaning_schedule). 
+- Basketball tournament information/signup [baskeball blog](2024_baketball)
+- Secretaries and others unite through blogging [sabre springs blogger](sabre_springs_bloggers)
 
 ## Mar 2024
 
