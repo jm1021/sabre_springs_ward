@@ -10,8 +10,8 @@ hide: true
 - Latest Sunday [Bulletin](https://sites.google.com/view/sswardtv/home)
 - March 17-18 Stake Conference [Schedule](2024_feb_stake_conference)
 
-## Calendars
-- Dinner Calendar [Sign-up](https://volunteersignup.org/KBJCW)
+## E-Clipboards
+- Missionary Dinner Calendar [Sign-up](https://volunteersignup.org/KBJCW)
 - Chapel cleaning, each Saturday.  Be sure to check your signup in the [blog](cleaning_schedule). 
 
 ## Upcoming Events
