@@ -1,8 +1,15 @@
 ---
 layout: post
 title: 2024 Building Cleaning
-description: Schedule for clean Stake Center, Family 1 is coordinator
+description: Schedule for clean Stake Center
 ---
+
+## Duties
+The cleaning requirements are in the cleaning closet located at the rear of the building.
+- Family 1 is the coordinator and should reach out to the other 2 families by the Thursday before.
+- The standard meeting time to clean is 8 am on Saturday.
+- If you can't make 8 am, try to do your part Friday night or later in the day on Saturday.
+- If you can't do it during the requested times coordinate a swap and report to John Mortensen on change.
 
 ## Assignments
 
@@ -22,8 +29,3 @@ description: Schedule for clean Stake Center, Family 1 is coordinator
 | 4/20/24 | Sorensen | Brown, Dennis | Wright |
 | 4/27/24 | McPhie   | Taysom   | Valdez   |
 
-## Duties
-The cleaning requirements are in the cleaning closet located in the rear of building.
-- The standard meeting time is 8 am on Saturday to clean and coordinate together.
-- If you can't make 8 am, reach out to someone on your week to discuss duties.
-- If you can't do it during the week, coordinate a swap.
