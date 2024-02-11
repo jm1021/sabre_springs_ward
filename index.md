@@ -5,7 +5,7 @@ title: Sabre Springs Blog
 hide: true
 ---
 
-## Church
+## Church Meetings
 
 - Latest Sunday [Bulletin](https://sites.google.com/view/sswardtv/home)
 - March 17-18 Stake Conference [Schedule](2024_feb_stake_conference)
