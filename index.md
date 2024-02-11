@@ -1,8 +1,29 @@
 ---
-layout: base
+toc: true
+layout: post
 title: Sabre Springs Blog
 hide: true
 ---
 
-## Tracking Service and Events
+## Church
+
+- Latest Sunday [Bulletin](https://sites.google.com/view/sswardtv/home)
+- March 17-18 Stake Conference [Schedule](2024_feb_stake_conference)
+
+### Feb 2024
+
+- Chapel cleaning.  Be sure to check your signup in [blogs](cleaning_schedule). 
+
+
+### Mar 2024
+
+- March 10, Family History Mission Valley.  We are going on a road trip to the Family History Center March 10, at 4pm.
+
+- March 16 Temple @ Newport Beach, Also, the RS is planning a temple trip for Saturday March 16, 11:00 am session. Everyone will need to make their own reservation.
+
+
+### Plans
+
+- Plans in the making.  We are also setting up some dates and times with the Food Pantry on Twin Peaks road (which will be in the morning on a weekday) as well as a group reservation at the San Diego Food bank (which will be in the evening.) We will let you know when those are confirmed.
+
 

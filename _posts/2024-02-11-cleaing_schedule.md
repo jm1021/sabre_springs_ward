@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2024 Building Cleaning
+permalink: cleaning_schedule
 description: Schedule for clean Stake Center
 ---
 
