@@ -5,6 +5,7 @@ description: Schedule for clean Stake Center, Family 1 is coordinator
 ---
 
 ## Assignments
+
 | Date    | Family 1 | Family 2 | Family 3 |
 |---------|----------|----------|----------|
 | 2/3/24  | Belnap   | Olsen    | Johnson  |
