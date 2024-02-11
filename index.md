@@ -12,13 +12,13 @@ hide: true
 
 ## Feb 2024
 
-- Chapel cleaning.  Be sure to check your signup in [blogs](cleaning_schedule). 
+- Chapel cleaning, each Saturday.  Be sure to check your signup in [blog](cleaning_schedule). 
+- Basketball tournament information/signup [blog](2024_baketball)
 
 
 ## Mar 2024
 
 - March 10, Family History Mission Valley.  We are going on a road trip to the Family History Center on March 10, at 4 pm.
-
 - March 16 Temple @ Newport Beach, Also, the RS is planning a temple trip for Saturday, March 16, 11:00 am session. Everyone will need to make their "own" reservation.
 
 
