@@ -10,6 +10,7 @@ hide: true
 ## Church Meetings
 
 - Latest Sunday [Bulletin](https://sites.google.com/view/sswardtv/home)
+- EQ Lesson 2/25 [Jesus Christ is the Treasure](https://www.churchofjesuschrist.org/study/general-conference/2023/10/57renlund?lang=eng)
 
 
 ## E-Clipboards
