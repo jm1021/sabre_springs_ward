@@ -5,6 +5,9 @@ permalink: 2024_baketball
 description: Basketball Information 
 ---
 
+## Schedule
+First game 3/12 [see details](https://allprosoftware.net/SR24/1/aptschart.htm)
+
 ## Information
 From: 
 - Alan Kubo - San Diego Stake Athletic Director
