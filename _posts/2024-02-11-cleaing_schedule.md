@@ -22,11 +22,11 @@ The cleaning requirements are in the cleaning closet located at the rear of the 
 | 2/24/24 | Preece   | Noakes   | Thomas, Cooper |
 | 3/2/24  | Hogstrom | Leuck    | Zelaya   |
 | 3/9/24  | Lang     | Miles    | Winmil   |
-| 3/16/24 | Akagi    | Morton   | Edmonson |
+| 3/16/24 | Akagi    | Morton   | Valdez |
 | 3/23/24 | Cuthbert | Strause  | Nelson   |
 | 3/30/24 | Speer    | Acosta Gutierrez, Osvaldo | Wetzker |
 | 4/6/24  | Pankretz | Ng       | Burden   |
 | 4/13/24 | Testerman| Mortensen| Naylor   |
 | 4/20/24 | Sorensen | Brown, Dennis | Wright |
-| 4/27/24 | McPhie   | Taysom   | Valdez   |
+| 4/27/24 | McPhie   | Taysom   | Edmonson |
 
