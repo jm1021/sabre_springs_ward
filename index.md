@@ -10,7 +10,7 @@ hide: true
 ## Church Meetings
 
 - Latest Sunday [Bulletin](https://sites.google.com/view/sswardtv/home)
-- Latest John Mortensen Sunday School Lesson [2 Nephi 6-19](https://jm1021.github.io/churchofjesuschrist/)
+- Adult Sunday School Teachers [Schedule](https://docs.google.com/spreadsheets/d/1-57ISwIIAFT7O9RGs4DbijRyegndQ6chyp4FtADDaQ0/edit#gid=0)
 
 
 ## E-Clipboards
