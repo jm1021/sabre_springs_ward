@@ -1,15 +1,15 @@
 ---
 layout: post
 comments: true
-title: Ministering Ideas 
+title: Ministering Goals 
 permalink: 2024_ministering
 description: As an Elders Quorum, we want to unify and help each other in our ministering journey.  
 ---
 
 ## Key Quarterly objectives
-We want to pick up our ministering with one requested item per quarter. Both the minister and the receiving family should work together on the following these objectives.
+We want to pick up our ministering, by performing requested item each quarter. Both the minister and the receiving family should work together on the following these objectives.
 
-- 1st Quarter Emergency Contact.  As an emergency exercise, we want to make sure our families have the correct contact information.  If we find any issues we want to report those to our ward clerk or priesthood leader for correction.
+- 1st Quarter Emergency Contact, before Saturday, March 23rd.  As an emergency exercise, we want to make sure our families have the correct contact information.  If we find any issues we want to report those to our ward clerk or priesthood leader for correction.
 
 - 2nd Quarter Visit Home or Cookies.  As an ice breaker... according to the comfort level of ministering companionship, we want to share a personal encounter with our ministering family(s).  Stop by the home, drop off cookies, meet, etc.  
 
