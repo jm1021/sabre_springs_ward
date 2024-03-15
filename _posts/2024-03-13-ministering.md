@@ -7,7 +7,7 @@ description: As an Elders Quorum, we want to unify and help each other in our mi
 ---
 
 ## Key Quarterly objectives
-We want to pick up our ministering, by performing requested item each quarter. Both the minister and the receiving family should work together on the following these objectives.
+We want to pick up our ministering, by performing these requested items each quarter. Both the minister and the receiving family should work together on the following these objectives.
 
 - 1st Quarter Emergency Contact, before Saturday, March 23rd.  As an emergency exercise, we want to make sure our families have the correct contact information.  If we find any issues we want to report those to our ward clerk or priesthood leader for correction.
 
@@ -17,8 +17,10 @@ We want to pick up our ministering, by performing requested item each quarter. B
 
 - 4th Quarter Secret Santa.  Think of something to share with your family during the Christmas Season.  Establish this as a Light the World tradition, following the love that you have for the Savior.
 
-## Ministering Tips 
-- Text Topics
+## Continuing Ministering Tips 
+Additionally, here are some ideas to help you keep regular contact with your ministering families.  All ministers should follow Church leadership, the Savior's example and personal revelation to guide their ministering stewardship.
+
+- Texting Topics
     - Notice you were gone
     - Relate an experience 
     - Enjoyed EQ, SS, Sacrament talk
