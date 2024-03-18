@@ -21,7 +21,7 @@ hide: true
 ## Upcoming Events
 
 ### Mar 2024
-- Basketball game 3/12 information/signup [basketball blog](2024_baketball)
 - Food bank [signup](2024_food_bank) is open 'till 20th.
-- March 10, Family History Mission Valley.  We are going on a road trip to the Family History Center on March 10, at 4 pm.
-- March 16 Temple @ Newport Beach, Also, the RS is planning a temple trip for Saturday, March 16, 11:00 am session. Everyone will need to make their "own" reservation.
+- ~~March 10, Family History Mission Valley.  We are going on a road trip to the Family History Center on March 10, at 4 pm~~.
+- ~~March 16 Temple @ Newport Beach, Also, the RS is planning a temple trip for Saturday, March 16, 11:00 am session. Everyone will need to make their "own" reservation~~.
+- March 23, 9 am to 11 am, Spring 2024 Poway Stake Emergency Communications Exercise [review ministering](2024_ministering)

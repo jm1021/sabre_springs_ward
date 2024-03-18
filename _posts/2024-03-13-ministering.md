@@ -3,14 +3,16 @@ layout: post
 comments: true
 title: Ministering Goals 
 permalink: 2024_ministering
-description: As an Elders Quorum, our aim is to foster unity and support in our ministering efforts.  By consistently implementing these ideas and objectives, we can strengthen our ministering relationships and support one another in our spiritual journeys.
+description: As an Elders Quorum, we aim to foster unity and support in our ministering efforts.  By consistently implementing these ideas and objectives, we can strengthen our ministering relationships and support one another in our spiritual journeys.
 ---
 
 ## Key Quarterly objectives
 Our goal is to enhance our ministering efforts by focusing on specific tasks each quarter. Both the ministers and the families they are assigned to should collaborate on achieving these objectives.
 
-### 1st Quarter: Emergency Contact (Due by Saturday, March 23rd)
-As a preparedness exercise, we aim to ensure that our families have accurate emergency contact information. Any discrepancies should be reported to our ward clerk or priesthood leader for correction.
+### 1st Quarter: Emergency Contact (Due by Saturday 9 am to 11 am, March 23rd)
+Contact your families and report to your ministering supervisor.  
+
+As an additional preparedness exercise, we aim to ensure that our families have accurate emergency contact information. Verify numbers and addresses in the Sabre Springs Ward directory in Tool.  Any discrepancies should be reported to our ward clerk or priesthood leader for correction.
 
 ### 2nd Quarter: Home Visit or Cookies
 To build rapport, ministers share personal contact with their assigned families based on their comfort level. This could involve dropping off cookies, making a visit to their home, or engaging in other friendly interactions.
