@@ -11,7 +11,8 @@ The cleaning requirements are in the cleaning closet located at the rear of the 
 - Family 1 is the coordinator and should reach out to the other 2 families by the Thursday before.
 - The standard meeting time to clean is 8 am on Saturday.
 - If you can't make 8 am, try to do your part Friday night or later in the day on Saturday.
-- If you can't do it during the requested times coordinate a swap and report to John Mortensen on change.
+- If you can't do it during the requested times coordinate a swap and make the change in the sign-up below.
+- Be sure to set up overflow seating after cleaning, see the map below.
 
 ## Overflow Chair Setup
 In the cultural hall after cleaning set up chairs behind to curtain.
