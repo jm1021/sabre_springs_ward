@@ -10,9 +10,16 @@ description: As an Elders Quorum, we aim to foster unity and support in our mini
 Our goal is to enhance our ministering efforts by focusing on specific tasks each quarter. Both the ministers and the families they are assigned to should collaborate on achieving these objectives.
 
 ### 1st Quarter: Emergency Contact (Due by Saturday 9 am to 11 am, March 23rd)
-Contact your families and report to your ministering supervisor.  
+Contact your families between now and Saturday morning, the preferred methods of contact are in the following order:
 
-As an additional preparedness exercise, we aim to ensure that our families have accurate emergency contact information. Verify numbers and addresses in the Sabre Springs Ward directory in Tool.  Any discrepancies should be reported to our ward clerk or priesthood leader for correction.
+1. Personal contact
+2. Call/Text
+3. Social Media (i.e. Facebook, Twitter)
+4. Email (Not considered timely as email may not be checked frequently)
+
+Contact your EQ supervisor when your contacts are attempted and the family verifies receipt.  EQ presidency is responsible for reporting every half hour between 9 am and 11 am on Saturday.  
+
+As a key service in every preparedness exercise, ensure that our families have accurate emergency contact information. Verify numbers and addresses in the Sabre Springs Ward directory in the LDS Tools application.  Any discrepancies should be reported to our ward clerk or priesthood leader for correction.
 
 ### 2nd Quarter: Home Visit or Cookies
 To build rapport, ministers share personal contact with their assigned families based on their comfort level. This could involve dropping off cookies, making a visit to their home, or engaging in other friendly interactions.
