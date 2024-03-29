@@ -3,14 +3,14 @@ layout: post
 comments: true
 title: Sunday School Blog
 permalink: 2024_sunday_school
-description: As a Sunday School, we want to focus on the message and gospel of Jesus Christ.  This blog is intended to share ideas about how we prepare and teach;  we should strive to follow the Savior's way.
+description: As a Sunday School, we want to focus on the message and gospel of Jesus Christ.  This blog is intended to share ideas about how we prepare and teach;  we should strive to follow the Savior's way.  Each of us should focus on the message and gospel of Jesus Christ.
 ---
 
 ## Preparation
-There are many patterns for preparation.   Each of us must establish a pattern that the Holy Ghost directs.  In my personal experience, I look for the moment that the spirit directs me in my preparation and try to stay in that spiritual enlightenment.  As an example, when recently reading the Versus of Isaiah, the spirit directed me when my focus centered on the "Holy One of Israel", "The Messiah", and Nehpi's declaration that "We preach of Christ".
+There are many patterns for preparation.   Each of us must establish a pattern that allow the Holy Ghost to direct our thoughts.  In my personal experience, I look for the moment that the spirit directs me in my preparation and try to stay in that spiritual enlightenment.  As an example, when recently reading the Verses of Isaiah, the spirit directed me when my focus centered on the "Holy One of Israel", "The Messiah", and Nephi's declaration that "We preach of Christ".
 
 ### Teaching Mantra
-In my Teaching today, as I strive to teach the Savior's way for the Latter-Day Saint of 2024 and beyond, I have come up with the mantra to "become a blogger".  This allows my lesson materials to be in the possession of the student, in a very comfortable place, on their phone.
+As I strive to impart the teachings of the Savior in today's context, aimed at Latter-Day Saints of 2024 and beyond, I've adopted a mantra: 'become a blogger.' This approach ensures that my lesson materials are readily accessible to students, and conveniently accessed on their phones for easy reference.
 
 Blogger. A person who regularly writes material for a blog.  As Teachers, we do a lot of preparation.  The idea of blogging is to help our students, in our Sunday School "Come Follow Me" settings to have access to our ideas.
 
