@@ -30,7 +30,7 @@ Lists are difficult to remember.  But, pondering things that you typically do in
 7. Record your notes on verses in the online Scriptures. I have been doing this since 2012 and have been reliving that previous session with the scriptures.  Things that I record are mostly spiritual, reliving that spirit has enabled me to recapture the times that I have been touched by the Spirit.
 
 ### Teaching Day
-Do not follow your blog when you Teach.  I believe it is my duty, as a Teacher, to the topic(s).   But equally, it is my duty as a Teacher to simply be a facilitator of discussion.
+During teaching sessions, it's vital to remain flexible and responsive to the immediate needs of the class. While prepared materials offer a valuable framework, they should not dictate the entire lesson. Rather, I see my role as both an introducer of topics and a facilitator of discussion, ensuring that the learning experience is dynamic and tailored to the student's interests and understanding. Therefore, while I provide guidance and structure, I also encourage active participation and engagement from all members of the class.
 
 After the introduction, it is vitally important that you listen to each comment, and affirm and personalize the comment to your understanding.  I believe that "Teaching the Savior's Way" requires us to recognize each of his children.  My joy, when I go home from a lesson, is mostly around the great comments of the students in the class.
 
