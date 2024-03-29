@@ -10,7 +10,7 @@ hide: true
 ## Church Meetings
 
 - Latest Sunday [Bulletin](https://sites.google.com/view/sswardtv/home)
-- Adult Sunday School Teachers [Schedule](https://docs.google.com/spreadsheets/d/1-57ISwIIAFT7O9RGs4DbijRyegndQ6chyp4FtADDaQ0/edit#gid=0)
+- Sunday School Teachers [Adult Schedule](https://docs.google.com/spreadsheets/d/1-57ISwIIAFT7O9RGs4DbijRyegndQ6chyp4FtADDaQ0/edit#gid=0), [Teachers Blog](2024_sunday_school)
 
 
 ## E-Clipboards
