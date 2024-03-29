@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Sunday School Blog
 permalink: 2024_sunday_school
-description: As a Sunday School, we want to focus on the message and gospel of Jesus Christ.  This blog is intended to share ideas of how we prepare and teach;  we should strive to follow the Savior's way.
+description: As a Sunday School, we want to focus on the message and gospel of Jesus Christ.  This blog is intended to share ideas about how we prepare and teach;  we should strive to follow the Savior's way.
 ---
 
 ## Preparation
