@@ -5,7 +5,7 @@ title: Sabre Springs Blog
 hide: true
 ---
 
-![]({{site.baseurl}}/images/bulletin/FreetoChoose.png)
+![]({{site.baseurl}}/images/bulletin/Easter_Sunday.png)
 
 ## Church Meetings
 
