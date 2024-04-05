@@ -10,14 +10,16 @@ hide: true
 ## Church Meetings
 
 - Latest Sunday [Bulletin](https://sites.google.com/view/sswardtv/home)
-- Sunday School Teachers [Adult Schedule](https://docs.google.com/spreadsheets/d/1-57ISwIIAFT7O9RGs4DbijRyegndQ6chyp4FtADDaQ0/edit#gid=0), [Teachers Blog](2024_sunday_school)
+- Sunday School 
+  - [Adult Teacher Schedule](https://docs.google.com/spreadsheets/d/1-57ISwIIAFT7O9RGs4DbijRyegndQ6chyp4FtADDaQ0/edit#gid=0)
+  - [Teaching Ideas](2024_sunday_school)
+  - [Mortensen Lessons](https://jm1021.github.io/churchofjesuschrist/)
 
 
 ## E-Clipboards
 - Chapel cleaning, each Saturday.  Be sure to check your signup in the [blog](cleaning_schedule)
 - Tyler Sunday 2nd Hour Blog and [Sign-up](tyler)
 - Missionary Dinner Calendar [Sign-up](https://volunteersignup.org/KBJCW)
-- Bloggers / Contributors Lists [Worksheet](sabre_springs_bloggers)
 
 ## Upcoming Events
 
@@ -29,3 +31,8 @@ hide: true
 - ~~March 10, Family History Mission Valley.  We are going on a road trip to the Family History Center on March 10, at 4 pm~~.
 - ~~March 16 Temple @ Newport Beach, Also, the RS is planning a temple trip for Saturday, March 16, 11:00 am session. Everyone will need to make their "own" reservation~~.
 - ~~March 23, 9 am to 11 am, Spring 2024 Poway Stake Emergency Communications Exercise [review ministering](2024_ministering)~~
+
+
+### Administrative
+
+- Bloggers / Contributors Lists [Worksheet](sabre_springs_bloggers)
