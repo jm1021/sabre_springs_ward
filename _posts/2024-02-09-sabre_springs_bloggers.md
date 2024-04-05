@@ -26,5 +26,5 @@ Keep a history of Presidency Visits.
 
 [Click here to Edit](https://docs.google.com/spreadsheets/d/1-57ISwIIAFT7O9RGs4DbijRyegndQ6chyp4FtADDaQ0/edit#gid=0)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQp0kFd7vV1TuJFnUs5Ggngl4f8DobtWkgN8Hf_SPqPqk5MUfofcR4gSDgh9Wjc8fbUykxIwY1-igk/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQp0kFd7vV1TuJFnUs5Ggngl4f8DobtWkgN8Hf_SPqPqk5MUfofcR4gSDgh9Wjc8fbUykxIwY1-igk/pubhtml?widget=true&amp;headers=false" style="width:100%; height:800px;i"></iframe>
 
