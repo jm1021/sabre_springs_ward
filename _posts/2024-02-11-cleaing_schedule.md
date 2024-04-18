@@ -13,6 +13,7 @@ The cleaning requirements are in the cleaning closet located at the rear of the 
 - If you can't make 8 am, try to do your part Friday night or later in the day on Saturday.
 - If you can't do it during the requested times coordinate a swap and make the change in the sign-up below.
 - Be sure to set up overflow seating after cleaning, see the map below.
+- Be sure to use the key on the cleaning cart to open the outside Trash enclosure.
 
 ## Overflow Chair Setup
 In the cultural hall after cleaning set up chairs behind to curtain.
