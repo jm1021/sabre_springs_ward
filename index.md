@@ -18,6 +18,7 @@ hide: true
 ## E-Clipboards
 - Tyler Sunday 2nd Hour Blog and [Sign-up](tyler)
 - Missionary Dinner Calendar [Sign-up](https://volunteersignup.org/KBJCW)
+- Building Lockup [Assignments and Instructions](building_lockup)
 - Winter Cleaning session is complete  ~~Chapel cleaning, each Saturday.  Be sure to check your signup in the [blog](cleaning_schedule)~~
 
 ## Upcoming Events
