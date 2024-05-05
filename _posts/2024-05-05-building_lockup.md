@@ -35,9 +35,9 @@ June
 6/6	Hogstrom/McPhie											
 6/13	Lang/Belnap											
 6/20	Sorensen/Akagi											
-6/27	Burden/Zelaya											
+6/27	Burden/Zelaya
+
 July
-												
 7/4	Pankretz/Edmonson											
 7/11	Thomas C./Brown D.											
 7/18	Morton/Noakes											
