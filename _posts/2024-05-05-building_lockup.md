@@ -7,7 +7,6 @@ description: EQ building lockup responsibilities and calendar
 ---
 
 ## Duties
-The cleaning requirements are in the cleaning closet located at the rear of the building.
 - Responsibility is individual, but you may feel more comfortable if you can find someone to go with you to the building (ie wife, child, neighbor)
 - The standard lockup time is 9 pm.
 - Shift is Thu-Mon eventing. Tue and Wed will be handled by Wards activity leaders. 
