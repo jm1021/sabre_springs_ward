@@ -9,9 +9,9 @@ description: EQ building lockup responsibilities and calendar
 ## Duties
 - Responsibility is individual or pair, you may feel more comfortable if you can find someone to go with you to the building (ie comapnion, wife, child, neighbor)
 - Companionship is listed, you are welcome to split days or go together, call or text each other for planning.  You can use the red column on the sheet to plan/coordinate.
-- People who did not receive an assignment are listed for backup, or switch day with someone if schedule is impossible.
+- People who did not receive an assignment are listed for backup or switch days with someone if the schedule is impossible.
 - The standard lockup time is 9 pm.
-- Shift is Thu-Mon eventing. Tue and Wed will be handled by Wards activity leaders. 
+- Shift is Thu-Mon evening. Tue and Wed will be handled by Wards activity leaders. 
 - Check rooms and windows, windows should be latched.
 - Check all doors and ensure they do not open from the outside.  Remember the Kitchen door.
 - Turn off all lights, the Gym lights are on the stage.
