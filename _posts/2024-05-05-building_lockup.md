@@ -15,7 +15,8 @@ description: EQ building lockup responsibilities and calendar
 - Check rooms and windows, windows should be latched.
 - Check all doors and ensure they do not open from the outside.  Remember the Kitchen door.
 - Turn off all lights, the Gym lights are on the stage.
-- Gate and Door lock codes are available via request through text messaging.
+- Gate and Door lock codes are available via request through text messaging to John M.
+- Record that you completed the assignment daily on Google Sheet.
 
 [Click here to Edit](https://docs.google.com/spreadsheets/d/116XSccUGBkL95zZmVqLDV5BHL8IeD9X6yj7FDXoypaQ/edit#gid=0)
 
