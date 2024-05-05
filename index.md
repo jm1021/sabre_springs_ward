@@ -23,7 +23,7 @@ hide: true
 
 ## Upcoming Events
 ### May 2024
-- Building Lockup Month
+- [Building Lockup](building_lockup) Scedule
 
 ### Apr 2024
 - ~~April 6, 7 [General Conference](https://www.churchofjesuschrist.org/study/general-conference?lang=eng), Church is online.~~
