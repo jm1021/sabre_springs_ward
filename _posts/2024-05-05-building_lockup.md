@@ -16,6 +16,6 @@ The cleaning requirements are in the cleaning closet located at the rear of the 
 - Turn off all lights, the Gym lights are on the stage.
 - Gate and Door lock codes are available via request through text messaging.
 
-[Click here to Edit](https://docs.google.com/spreadsheets/d/1rd24HDFj_VeaeLU6qsvSWkxT5FMkZ6DjFbzlD1DnXgg/edit#gid=0)
+[Click here to Edit](https://docs.google.com/spreadsheets/d/116XSccUGBkL95zZmVqLDV5BHL8IeD9X6yj7FDXoypaQ/edit#gid=0)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRo6uI25gCRlqpIDAOmFEubD0VCIAL6TmP_fqsUDe4SM6PVmN9HmlkFQ9UDSGc9GslGCU3scvhdrOHj/pubhtml?widget=true&amp;headers=false style="width:100%; height:800px;i""></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRo6uI25gCRlqpIDAOmFEubD0VCIAL6TmP_fqsUDe4SM6PVmN9HmlkFQ9UDSGc9GslGCU3scvhdrOHj/pubhtml?widget=true&amp;headers=false" style="width:100%; height:800px;i"></iframe>
