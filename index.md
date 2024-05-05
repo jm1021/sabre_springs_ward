@@ -12,19 +12,20 @@ hide: true
 - Latest Sunday [Bulletin](https://sites.google.com/view/sswardtv/home)
 - Sunday School 
   - [Adult Teacher Schedule](https://docs.google.com/spreadsheets/d/1-57ISwIIAFT7O9RGs4DbijRyegndQ6chyp4FtADDaQ0/edit#gid=0)
-  - [Teaching Ideas](2024_sunday_school)
   - [Mortensen Lessons](https://jm1021.github.io/churchofjesuschrist/)
-
+  - [Teaching Ideas](2024_sunday_school)
 
 ## E-Clipboards
-- Chapel cleaning, each Saturday.  Be sure to check your signup in the [blog](cleaning_schedule)
 - Tyler Sunday 2nd Hour Blog and [Sign-up](tyler)
 - Missionary Dinner Calendar [Sign-up](https://volunteersignup.org/KBJCW)
+- Winter Cleaning session is complete  ~~Chapel cleaning, each Saturday.  Be sure to check your signup in the [blog](cleaning_schedule)~~
 
 ## Upcoming Events
+### May 2024
+- Building Lockup Month
 
 ### Apr 2024
-- April 6, 7 [General Conference](https://www.churchofjesuschrist.org/study/general-conference?lang=eng), Church is online.
+- ~~April 6, 7 [General Conference](https://www.churchofjesuschrist.org/study/general-conference?lang=eng), Church is online.~~
 
 ### Mar 2024
 - ~~Food bank [signup](2024_food_bank) is open 'till 20th.~~
