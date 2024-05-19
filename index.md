@@ -22,8 +22,11 @@ hide: true
 - Winter Cleaning session is complete  ~~Chapel cleaning, each Saturday.  Be sure to check your signup in the [blog](cleaning_schedule)~~
 
 ## Upcoming Events
+### June 2024
+- June 10-14 [High Adventure Food](https://docs.google.com/spreadsheets/d/1KnlxyA8tV-kNT4jBIdFwKNo-DYKcNCZ8_klIea_ozEY/edit#gid=0)
+
 ### May 2024
-- [Building Lockup](building_lockup) Scedule
+- May through Aug [Building Lockup](building_lockup) Schedule
 
 ### Apr 2024
 - ~~April 6, 7 [General Conference](https://www.churchofjesuschrist.org/study/general-conference?lang=eng), Church is online.~~
