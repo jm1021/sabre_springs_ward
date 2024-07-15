@@ -22,8 +22,11 @@ hide: true
 - Winter Cleaning session is complete  ~~Chapel cleaning, each Saturday.  Be sure to check your signup in the [blog](cleaning_schedule)~~
 
 ## Upcoming Events
+### July 2024
+- Activity Plan [Poll](https://jm1021.github.io/sabre_springs_ward/2024/07/14/activty.html)
+
 ### June 2024
-- June 10-14 [High Adventure Food](https://docs.google.com/spreadsheets/d/1KnlxyA8tV-kNT4jBIdFwKNo-DYKcNCZ8_klIea_ozEY/edit#gid=0)
+- ~~June 10-14 [High Adventure Food](https://docs.google.com/spreadsheets/d/1KnlxyA8tV-kNT4jBIdFwKNo-DYKcNCZ8_klIea_ozEY/edit#gid=0)~~
 
 ### May 2024
 - May through Aug [Building Lockup](building_lockup) Schedule
