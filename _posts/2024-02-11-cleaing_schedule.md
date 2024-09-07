@@ -10,7 +10,7 @@ description: Schedule for clean Stake Center
 
 The cleaning requirements are in the cleaning closet located at the rear of the building.
 
-- Family 1 is the coordinator and should reach out to the other the other sign-ups by the Thursday before.  Be sure to tell everyone the door code; contact an Elder's Quorum Presidency member in LDS Tools if you don't know it.
+- First **"Assign 1n"** is the coordinator and should reach out to the other the other sign-ups by the Thursday before.  Be sure to tell everyone the door code; contact an Elder's Quorum Presidency member in LDS Tools if you don't know it.
 - The standard meeting time to clean is 8 am on Saturday.
 - If you can't make 8 am, try to do your part Friday night or later in the day on Saturday.
 - If you can't do it during the requested window (Friday night to Saturday night) coordinate a swap and make the change in google doc sign-up, link is below.
