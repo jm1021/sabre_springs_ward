@@ -18,8 +18,8 @@ hide: true
 
 - Tyler Sunday 2nd Hour Blog and [Sign-up](tyler)
 - Missionary Dinner Calendar [Sign-up](https://volunteersignup.org/KBJCW)
-- Chapel cleaning, each Saturday.  Be sure to check your signup in the [blog](cleaning_schedule)
-- On hold. ~~Building Lockup [Assignments and Instructions](building_lockup)~~
+- Out of season. ~~Chapel cleaning, each Saturday.  Be sure to check your signup in the [blog](cleaning_schedule)~~
+- Building Lockup [Assignments and Instructions](building_lockup)
 
 ## Other
 
