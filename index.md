@@ -11,7 +11,7 @@ hide: true
 
 - Latest Sunday [Bulletin](https://sites.google.com/view/sswardtv/home)
 - Sunday School 
-  - [Adult Teacher Schedule](https://docs.google.com/spreadsheets/d/1-57ISwIIAFT7O9RGs4DbijRyegndQ6chyp4FtADDaQ0/edit#gid=0)
+  - [Adult Teacher Schedule](https://docs.google.com/spreadsheets/d/1-57ISwIIAFT7O9RGs4DbijRyegndQ6chyp4FtADDaQ0/edit?gid=1407123392#gid=1407123392)
   - [Mortensen Lessons](https://jm1021.github.io/churchofjesuschrist/)
 
 ## E-Clipboards
