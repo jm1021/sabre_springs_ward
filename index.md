@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-title: Sabre Springs Blog
+title: Sabre Springs Ward Blog
 hide: true
 ---
 
